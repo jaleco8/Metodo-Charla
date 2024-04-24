@@ -1,11 +1,12 @@
-# Estrategias para educar con tecnología.
+# Resolución de conflictos en la Ingeniería de Software
 
-[![](../images/2-MiniaturaPodcast.png)](https://youtu.be/FoYgFuWeB4g?si=SjcT1Hr8MygrDNv8)
+[![](../images/3-MiniaturaPodcast.png)](https://youtu.be/EIZZWsJEo2o?si=AamEXwq_hOGBshAI)
 
- - #### El estado de Serverless en AWS, Azure y Google Cloud en 2024
- - #### La herramienta de inteligencia artificial que detecta tumores de cáncer que no pueden ver los médicos
- - #### Cómo la red social Reddit logró alcanzar un valor de US$9.000 millones y convertirse en el preciado objetivo de las empresas de inteligencia artificial
- - #### Gemini 1.5
+ - #### Resolución de conflictos en la Ingeniería de Software
+ - #### La Startup de chips Rivos recauda $250 millones para desarrollar chips de IA RISC-V
+ - #### La francesa Mistral AI busca financiación con una valoración de 5.000 millones de dólares
+ - #### Take-Two, la casa matriz de ‘GTA’, anuncia despidos y la cancelación de varios juegos
+ - #### Los trenes de San Francisco todavía dependen de disquetes para funcionar
 
 > Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 

@@ -1,5 +1,7 @@
 # ¿Por qué hay tantos programadores que no encuentran trabajo?
 
+[![](../images/1-MiniaturaPodcast.png)](https://youtu.be/NlvzAqR-cRk?si=0PTw6ibSyQD-843S)
+
  - #### Desafíos y oportunidades de las voces sintéticas OpenAI
  - #### Claude 3 destrona a GPT-4 en el ranking más conocido de IAs
  - #### El YouTuber Marques Brownlee calificó el EV de Fisker como "el peor coche que he revisado nunca", y su crítica negativa se ha convertido en toda una saga en Internet.
