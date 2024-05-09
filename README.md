@@ -8,6 +8,6 @@
 
 ### [**Episodio 03**](./3-Episodio/) Resolución de conflictos en la Ingeniería de Software
 
-### [**Episodio 05**](./4-Episodio/) Cuál debería ser la evolución de un dev
+### [**Episodio 04**](./4-Episodio/) Cuál debería ser la evolución de un dev
 
-### [**Episodio 06**](./5-Episodio/) Cuál es el futuro con la IA
+### [**Episodio 05**](./5-Episodio/) Cuál es el futuro con la IA
