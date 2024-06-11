@@ -1,6 +1,6 @@
 # Google, Microsoft y OpenAI están hablando de cómo los agentes de IA revolucionarán el futuro.
 
-[![](../images/9-MiniaturaPodcast.png)](https://youtu.be/iDd01xMZZf0?si=wGf3Ce7U_0St271R)
+[![](../images/9-MiniaturaPodcast.jpg)](https://youtu.be/iDd01xMZZf0?si=wGf3Ce7U_0St271R)
 
  - #### Google, Microsoft y OpenAI están hablando de cómo los agentes de IA revolucionarán el futuro.
  - #### El nuevo equipo de OpenAI para vigilar a Sam Altman está dirigido por Sam Altman
