@@ -11,3 +11,13 @@
 ### [**Episodio 04**](./4-Episodio/) Cuál debería ser la evolución de un dev
 
 ### [**Episodio 05**](./5-Episodio/) Cuál es el futuro con la IA
+
+### [**Episodio 06**](./6-Episodio/) Explorando las Fronteras del Desarrollo Frontend
+
+### [**Episodio 07**](./7-Episodio/) Datos seguros, empresa segura: Claves para la madurez digital
+
+### [**Episodio 08**](./8-Episodio/) Beneficios de una comunicación asertiva
+
+### [**Episodio 09**](./9-Episodio/) Google, Microsoft y OpenAI están hablando de cómo los agentes de IA revolucionarán el futuro.
+
+### [**Episodio 10**](./10-Episodio/) La importancia de alfabetizar en ciberseguridad desde la educación primaria
