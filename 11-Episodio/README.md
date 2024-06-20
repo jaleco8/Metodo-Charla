@@ -1,13 +1,12 @@
-# Datos seguros, empresa segura: Claves para la madurez digital
+# Gobiernos Inteligentes: El Rol de la IA en la Transformación Pública
 
-[![](../images/7-MiniaturaPodcast.png)](https://youtu.be/7VQXcH8d2Ag?si=38S6cHMk2shf95Tn)
+[![](../images/11-MiniaturaPodcast.jpg)](https://youtu.be/q3SamXX0nFo)
 
- - #### Datos seguros, empresa segura: Claves para la madurez digital
- - #### ChatGPT-4o - Google I/O 2024
- - #### El cofundador de Instagram se une a Anthropic como jefe de producto en la lucha contra OpenAI
- - #### Los chips Cobalt personalizados de Microsoft llegarán a Azure la próxima semana
- - #### Tesla sigue recortando empleos y los federales investigan a Waymo
- - #### OpenAI se asocia con Reddit para integrar contenidos exclusivos generados por los usuarios en ChatGPT
+ - #### Gobiernos Inteligentes: El Rol de la IA en la Transformación Pública
+ - #### Mistral AI obtiene 600 millones de euros en ronda Serie B y alcanza valoración de 6 mil millones
+ - #### Novedades de Apple en WWDC 2024: Integración de ChatGPT y Mejoras en Siri
+ - #### Robo de Datos en Snowflake: Cientos de Clientes Afectados por la Falta de MFA
+ - #### Raspberry Pi Debuta en la Bolsa de Londres con Éxito: Acciones Suben un 32%
 
 > Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 

@@ -21,3 +21,5 @@
 ### [**Episodio 09**](./9-Episodio/) Google, Microsoft y OpenAI están hablando de cómo los agentes de IA revolucionarán el futuro.
 
 ### [**Episodio 10**](./10-Episodio/) La importancia de alfabetizar en ciberseguridad desde la educación primaria
+
+### [**Episodio 11**](./11-Episodio/) Gobiernos Inteligentes: El Rol de la IA en la Transformación Pública

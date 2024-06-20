@@ -15,6 +15,8 @@
 
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=twitch&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.twitch.tv%2Fmetodocharla)
 
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=kick&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fkick.com%2Fmetodocharla)
+
 ## CONTÁCTANOS SI QUIERES PARTICIPAR:
 
 [![Email](https://img.shields.io/badge/metodocharla%40gmail.com-email_directo-0D0D0D?style=for-the-badge&logo=gmail&labelColor=%23F2F2F2&color=%23F21D2F)](mailto:metodocharla@gmail.com)
