@@ -23,3 +23,5 @@
 ### [**Episodio 10**](./10-Episodio/) La importancia de alfabetizar en ciberseguridad desde la educación primaria
 
 ### [**Episodio 11**](./11-Episodio/) Gobiernos Inteligentes: El Rol de la IA en la Transformación Pública
+
+### [**Episodio 12**](./12-Episodio/) Impacto de la Automatización y la IA en el Frontend
