@@ -25,3 +25,5 @@
 ### [**Episodio 11**](./11-Episodio/) Gobiernos Inteligentes: El Rol de la IA en la Transformación Pública
 
 ### [**Episodio 12**](./12-Episodio/) Impacto de la Automatización y la IA en el Frontend
+
+### [**Episodio 13**](./13-Episodio/) El Futuro de la IA en la Salud
