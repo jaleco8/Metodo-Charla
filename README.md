@@ -1,5 +1,7 @@
 # METODO CHARLA
 
+![](../images/MC-Encabezado.jpg)
+
 ## TEMPORADA 1
 
 ### [**Episodio 01**](./1-Episodio/) ¿Por qué hay tantos programadores que no encuentran trabajo?
@@ -27,3 +29,29 @@
 ### [**Episodio 12**](./12-Episodio/) Impacto de la Automatización y la IA en el Frontend
 
 ### [**Episodio 13**](./13-Episodio/) El Futuro de la IA en la Salud
+
+### [**Episodio 14**](./14-Episodio/) Estrategias de CEOs para armonizar innovación y salud mental
+
+### [**Episodio 15**](./15-Episodio/) Estrategias para Prosperar en el Campo de la Tecnología y la Programación
+
+<hr/>
+
+## SUSCRÍBETE AL CANAL:
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
+
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=twitch&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.twitch.tv%2Fmetodocharla)
+
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=kick&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fkick.com%2Fmetodocharla)
+
+## CONTÁCTANOS SI QUIERES PARTICIPAR:
+
+[![Email](https://img.shields.io/badge/metodocharla%40gmail.com-email_directo-0D0D0D?style=for-the-badge&logo=gmail&labelColor=%23F2F2F2&color=%23F21D2F)](mailto:metodocharla@gmail.com)
+
+## ¡SÍGUENOS EN!:
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=tiktok&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Ftiktok.com%2F%40metodocharla)
+
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=instagram&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Finstagram.com%2Fmetodocharla)
+
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=facebook&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Ffacebook.com%2Fmetodocharla)
+
+![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=x&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Ftwitter.com%2Fmetodocharla)
