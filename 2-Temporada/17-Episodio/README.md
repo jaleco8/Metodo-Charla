@@ -1,14 +1,13 @@
-# METODO CHARLA
+# El Futuro del Rendimiento Olímpico con la Tecnología de ST37
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/17-MiniaturaPodcast.jpg)](https://youtu.be/gtyV2iTWQWA)
 
-## TEMPORADA 2
+ - #### Elon Musk anuncia robots humanoides de Tesla para 2026
+ - #### Alphabet acelera el futuro: 5,000 millones más para Waymo
+ - #### Meta lanza Llama 3.1: La nueva generación de su IA
+ - #### Detalles revelados del incidente entre CrowdStrike y Microsoft Windows
 
-### [**Episodio 16**](./16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

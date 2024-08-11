@@ -38,6 +38,8 @@
 
 ### [**Episodio 16**](./2-Temporada/16-Episodio/) IA: La revolución de la experiencia del cliente
 
+### [**Episodio 17**](./2-Temporada/17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
