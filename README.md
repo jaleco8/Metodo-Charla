@@ -40,6 +40,10 @@
 
 ### [**Episodio 17**](./2-Temporada/17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
 
+### [**Episodio 18**](./2-Temporada/18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
+
+### [**Episodio 19**](./2-Temporada/19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:

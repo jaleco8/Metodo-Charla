@@ -1,18 +1,14 @@
-# METODO CHARLA
+# El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/18-MiniaturaPodcast.jpg)](https://youtu.be/Q6dt13OSYGU)
 
-## TEMPORADA 2
+ - #### Claude de Anthropic alcanza $1M en ingresos, pero sigue a la sombra de ChatGPT
+ - #### John Deere se alía con la tecnología de Alphabet para revolucionar la agricultura
+ - #### La UE marca el camino: Nueva ley de inteligencia artificial establece un estándar global
+ - #### Robots humanoides conquistan Pekín: ¿El futuro es más máquina que humano?
+ - #### Freddy Vega: El colombiano que revoluciona la educación digital en América Latina
 
-### [**Episodio 16**](./16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-### [**Episodio 18**](./18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
-
-### [**Episodio 19**](./19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
