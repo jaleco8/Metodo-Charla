@@ -1,22 +1,13 @@
-# METODO CHARLA
+# Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
 
-![](../images/MC-Encabezado.jpg)
- 
-## [TEMPORADA 1](./1-Temporada/)
+[![](../../images/20-MiniaturaPodcast.jpg)](https://youtu.be/XkAtZwHSH2M)
 
-## [TEMPORADA 2](./2-Temporada/)
+ - #### Satya Nadella en Colombia: la IA como el próximo motor de cambio social y económico
+ - #### Laravel Cloud: La solución mágica para desplegar tus aplicaciones sin estrés
+ - #### Apple lanza 'Clean Up': elimina objetos de tus fotos como por arte de magia con iOS 18.1
+ - #### OpenAI se encamina a los 100.000 millones de dólares: La IA también sabe hacer dinero
 
-### [**Episodio 16**](./2-Temporada/16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./2-Temporada/17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-### [**Episodio 18**](./2-Temporada/18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
-
-### [**Episodio 19**](./2-Temporada/19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
-
-### [**Episodio 20**](./2-Temporada/20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

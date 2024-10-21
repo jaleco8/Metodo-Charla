@@ -12,6 +12,8 @@
 
 ### [**Episodio 19**](./19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
 
+### [**Episodio 20**](./20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
