@@ -16,6 +16,8 @@
 
 ### [**Episodio 20**](./2-Temporada/20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
 
+### [**Episodio 21**](./2-Temporada/21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:

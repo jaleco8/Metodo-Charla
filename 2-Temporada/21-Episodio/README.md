@@ -1,22 +1,13 @@
-# METODO CHARLA
+# Innovación, Comunidad y Liderazgo con Pedro Plasencia
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/21-MiniaturaPodcast.jpg)](https://youtu.be/GZjJc6yBGJU)
 
-## TEMPORADA 2
+ - #### Anthropic presenta su modelo 3.5: más inteligente y eficiente en el uso de computadoras
+ - #### SpaceX Hace Historia: Primera Captura Exitosa del Booster de Starship con 'Palillos Gigantes'
+ - #### Waymo acelera su negocio de robotaxis con una inyección de $5,600 millones
+ - #### Blue Origin duplica su capacidad de turismo espacial con su nueva cápsula RSS Kármán Line
 
-### [**Episodio 16**](./16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-### [**Episodio 18**](./18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
-
-### [**Episodio 19**](./19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
-
-### [**Episodio 20**](./20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
-
-### [**Episodio 21**](./21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
