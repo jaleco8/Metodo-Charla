@@ -1,28 +1,13 @@
-# METODO CHARLA
+# Innovación, Comunidad y Liderazgo con Pedro Plasencia
 
-![](../images/MC-Encabezado.jpg)
- 
-## [TEMPORADA 1](./1-Temporada/)
+[![](../../images/22-MiniaturaPodcast.jpg)](https://youtu.be/9In-eRCYt9o)
 
-## [TEMPORADA 2](./2-Temporada/)
+ - #### Hacker aprovechó una vulnerabilidad en el sistema anti trampas y baneó a miles de jugadores de COD
+ - #### ChatGPT ahora con acceso a la web: ¡inteligencia artificial al día con la realidad!
+ - #### Amazon considera una nueva inversión multimillonaria en Anthropic para desarrollo de IA
+ - #### Tech se rinde ante Trump: los grandes CEOs celebran su regreso
 
-### [**Episodio 16**](./2-Temporada/16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./2-Temporada/17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-### [**Episodio 18**](./2-Temporada/18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
-
-### [**Episodio 19**](./2-Temporada/19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
-
-### [**Episodio 20**](./2-Temporada/20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
-
-### [**Episodio 21**](./2-Temporada/21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
-
-### [**Episodio 22**](./2-Temporada/22-Episodio/) Startup en Crecimiento: Secretos para Escalar Sin Perder el Rumbo
-
-### [**Episodio 23**](./2-Temporada/23-Episodio/) Desafíos y Oportunidades en el Desarrollo Web: Laravel, Symfony y el Futuro de PHP
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

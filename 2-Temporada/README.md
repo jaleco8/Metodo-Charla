@@ -16,6 +16,10 @@
 
 ### [**Episodio 21**](./21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
 
+### [**Episodio 22**](./22-Episodio/) Startup en Crecimiento: Secretos para Escalar Sin Perder el Rumbo
+
+### [**Episodio 23**](./23-Episodio/) Desafíos y Oportunidades en el Desarrollo Web: Laravel, Symfony y el Futuro de PHP
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
