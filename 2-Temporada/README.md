@@ -20,6 +20,16 @@
 
 ### [**Episodio 23**](./23-Episodio/) Desafíos y Oportunidades en el Desarrollo Web: Laravel, Symfony y el Futuro de PHP
 
+### [**Episodio 24**](./24-Episodio/) Ergonomía para Profesionales de la Tecnología: Cómo Prevenir Dolor y Mejorar tu Salud en el Trabajo
+
+### [**Episodio 25**](./25-Episodio/) Del FTP a la IA: La Evolución del Desarrollo de Software a través de los Años
+
+### [**Episodio 26**](./26-Episodio/) La Intersección entre Tecnología, Reclutamiento y Psicología Organizacional
+
+### [**Episodio 27**](./27-Episodio/) Liderazgo y Tecnología: Claves para Innovar en IA y Desarrollo de Software con Humberto Ariza
+
+### [**Episodio 28**](./28-Episodio/) Revolucionando las Ventas con IA Empática y Tecnología Humana
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
