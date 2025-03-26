@@ -30,6 +30,10 @@
 
 ### [**Episodio 28**](./28-Episodio/) Revolucionando las Ventas con IA Empática y Tecnología Humana
 
+### [**Episodio 29**](./29-Episodio/) IA, Fintech y Proyectos Tech: Cómo Liderar Proyectos en la Era Digital
+
+### [**Episodio 30**](./30-Episodio/) El Lado Bueno y Malo de la IA: Mitos, Riesgos y Oportunidades
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
