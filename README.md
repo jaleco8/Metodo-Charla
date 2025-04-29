@@ -6,14 +6,6 @@
 
 ## [TEMPORADA 2](./2-Temporada/)
 
-### [**Episodio 16**](./2-Temporada/16-Episodio/) IA: La revolución de la experiencia del cliente
-
-### [**Episodio 17**](./2-Temporada/17-Episodio/) El Futuro del Rendimiento Olímpico con la Tecnología de ST37
-
-### [**Episodio 18**](./2-Temporada/18-Episodio/) El Futuro de las Fintech en América Latina: Perspectivas de Gabriel Castillo
-
-### [**Episodio 19**](./2-Temporada/19-Episodio/) Potencia tu carrera en DESARROLLO con IA: Lo que NADIE te está diciendo
-
 ### [**Episodio 20**](./2-Temporada/20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
 
 ### [**Episodio 21**](./2-Temporada/21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
@@ -39,6 +31,10 @@
 ## [TEMPORADA 3](./3-Temporada/)
 
 ### [**Episodio 31**](./3-Temporada/31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
+
+### [**Episodio 32**](./3-Temporada/32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
+
+### [**Episodio 33**](./3-Temporada/33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
 
 <hr/>
 

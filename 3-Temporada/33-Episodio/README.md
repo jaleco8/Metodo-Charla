@@ -1,16 +1,10 @@
-# METODO CHARLA
+# Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/33-MiniaturaPodcast.jpg)](https://youtu.be/o9l1lipTtfA)
 
-## TEMPORADA 3
+Es un placer presentar a Mónica Parra, una líder en marketing digital y estrategia de crecimiento que ha dejado huella tanto en el mundo corporativo como en la academia. Con su paso por Rappi, donde ha encabezado campañas innovadoras y proyectos de brand marketing en Colombia, Mónica ha demostrado una visión estratégica y un compromiso inquebrantable con la transformación digital. Además, su experiencia como docente en postgrados en la Universidad Sergio Arboleda y su aporte en el Programa de Liderazgo de Alto Rendimiento en Blum, donde nos ofreció clases sobre mindsets, consolidan una trayectoria que inspira y empodera a quienes buscan la excelencia en sus proyectos profesionales.
 
-### [**Episodio 31**](./31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
-
-### [**Episodio 32**](./32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
-
-### [**Episodio 33**](./33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

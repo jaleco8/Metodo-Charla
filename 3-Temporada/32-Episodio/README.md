@@ -1,16 +1,10 @@
-# METODO CHARLA
+# La Tecnología No Espera: ¿Estás Listo para el Cambio?
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/33-MiniaturaPodcast.jpg)](https://youtu.be/UAVfbnt8SJI)
 
-## TEMPORADA 3
+Hoy en Método Charla tenemos a Miguel Gómez, un experto en marketing digital, growth hacking y tecnología, con más de una década de experiencia impulsando estrategias de crecimiento y posicionamiento. Como CMO en LinkTIC, Miguel ha liderado proyectos innovadores combinando SEO técnico, análisis de datos y automatización para maximizar el impacto de productos digitales. Su trayectoria como emprendedor y desarrollador le da una visión única sobre cómo la tecnología y el marketing pueden fusionarse para crear experiencias digitales poderosas. Prepárate para una conversación llena de estrategias, tendencias y consejos prácticos para llevar el marketing digital al siguiente nivel. ¡No te lo pierdas!
 
-### [**Episodio 31**](./31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
-
-### [**Episodio 32**](./32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
-
-### [**Episodio 33**](./33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
