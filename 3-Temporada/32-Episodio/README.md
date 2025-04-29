@@ -1,6 +1,6 @@
 # La Tecnología No Espera: ¿Estás Listo para el Cambio?
 
-[![](../../images/33-MiniaturaPodcast.jpg)](https://youtu.be/UAVfbnt8SJI)
+[![](../../images/32-MiniaturaPodcast.jpg)](https://youtu.be/UAVfbnt8SJI)
 
 Hoy en Método Charla tenemos a Miguel Gómez, un experto en marketing digital, growth hacking y tecnología, con más de una década de experiencia impulsando estrategias de crecimiento y posicionamiento. Como CMO en LinkTIC, Miguel ha liderado proyectos innovadores combinando SEO técnico, análisis de datos y automatización para maximizar el impacto de productos digitales. Su trayectoria como emprendedor y desarrollador le da una visión única sobre cómo la tecnología y el marketing pueden fusionarse para crear experiencias digitales poderosas. Prepárate para una conversación llena de estrategias, tendencias y consejos prácticos para llevar el marketing digital al siguiente nivel. ¡No te lo pierdas!
 
