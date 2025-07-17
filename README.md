@@ -6,28 +6,6 @@
 
 ## [TEMPORADA 2](./2-Temporada/)
 
-### [**Episodio 20**](./2-Temporada/20-Episodio/) Escalando Startups Tecnológicas en Latinoamérica con Python, Django y AWS
-
-### [**Episodio 21**](./2-Temporada/21-Episodio/) Innovación, Comunidad y Liderazgo con Pedro Plasencia
-
-### [**Episodio 22**](./2-Temporada/22-Episodio/) Startup en Crecimiento: Secretos para Escalar Sin Perder el Rumbo
-
-### [**Episodio 23**](./2-Temporada/23-Episodio/) Desafíos y Oportunidades en el Desarrollo Web: Laravel, Symfony y el Futuro de PHP
-
-### [**Episodio 24**](./2-Temporada/24-Episodio/) Ergonomía para Profesionales de la Tecnología: Cómo Prevenir Dolor y Mejorar tu Salud en el Trabajo
-
-### [**Episodio 25**](./2-Temporada/25-Episodio/) Del FTP a la IA: La Evolución del Desarrollo de Software a través de los Años
-
-### [**Episodio 26**](./2-Temporada/26-Episodio/) La Intersección entre Tecnología, Reclutamiento y Psicología Organizacional
-
-### [**Episodio 27**](./2-Temporada/27-Episodio/) Liderazgo y Tecnología: Claves para Innovar en IA y Desarrollo de Software con Humberto Ariza
-
-### [**Episodio 28**](./2-Temporada/28-Episodio/) Revolucionando las Ventas con IA Empática y Tecnología Humana
-
-### [**Episodio 29**](./2-Temporada/29-Episodio/) IA, Fintech y Proyectos Tech: Cómo Liderar Proyectos en la Era Digital
-
-### [**Episodio 30**](./2-Temporada/30-Episodio/) El Lado Bueno y Malo de la IA: Mitos, Riesgos y Oportunidades
-
 ## [TEMPORADA 3](./3-Temporada/)
 
 ### [**Episodio 31**](./3-Temporada/31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
@@ -35,6 +13,20 @@
 ### [**Episodio 32**](./3-Temporada/32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
 
 ### [**Episodio 33**](./3-Temporada/33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
+
+### [**Episodio 34**](./3-Temporada/34-Episodio/) Innovar no es seguir modas, es resolver problemas reales
+
+### [**Episodio 35**](./3-Temporada/35-Episodio/) De abogado a líder BPO: La transformación de Rodolfo Hobaica y el renacer de Vocem
+
+### [**Episodio 36**](./3-Temporada/36-Episodio/) Liderar desde la Juventud: Leticia Oruna y el Poder del Talento Emergente
+
+### [**Episodio 37**](./3-Temporada/37-Episodio/) Educación e Inteligencia Artificial: Liderazgo y Futuro con la Dra. Rebeca Rivas
+
+### [**Episodio 38**](./3-Temporada/38-Episodio/) Aprender en segundos: IA y educación hiperpersonalizada con Juan Carlos Molina
+
+### [**Episodio 39**](./3-Temporada/39-Episodio/) Startups, datos y liderazgo: descubre el Colombia Tech Report 2025
+
+### [**Episodio 40**](./3-Temporada/40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
 
 <hr/>
 
