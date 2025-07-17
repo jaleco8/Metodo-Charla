@@ -1,30 +1,10 @@
-# METODO CHARLA
+# Startups, datos y liderazgo: descubre el Colombia Tech Report 2025
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/39-MiniaturaPodcast.jpg)](https://youtu.be/lZjDFxFT_XY)
 
-## TEMPORADA 3
+María Paula Peñaranda es diseñadora industrial de la Pontificia Universidad Javeriana, especialista en marketing estratégico del CESA y gerente de Innovación en KPMG Colombia, donde lidera la articulación de servicios financieros, legales y tributarios para hacer escalar startups de forma sostenible. Referente del ecosistema tech latinoamericano, dirigió el Colombia Tech Report 2024-2025, estudio que mapeará más de 2.100 startups y guía la toma de decisiones de corporativos, academia y gobierno. Con más de ocho años impulsando innovación, datos y liderazgo femenino, nos acompaña hoy desde Bogotá para hablar de alianzas público-privadas, cultura startup y cómo convertir la data en impacto real.
 
-### [**Episodio 31**](./31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
-
-### [**Episodio 32**](./32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
-
-### [**Episodio 33**](./33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
-
-### [**Episodio 34**](./34-Episodio/) Innovar no es seguir modas, es resolver problemas reales
-
-### [**Episodio 35**](./35-Episodio/) De abogado a líder BPO: La transformación de Rodolfo Hobaica y el renacer de Vocem
-
-### [**Episodio 36**](./36-Episodio/) Liderar desde la Juventud: Leticia Oruna y el Poder del Talento Emergente
-
-### [**Episodio 37**](./37-Episodio/) Educación e Inteligencia Artificial: Liderazgo y Futuro con la Dra. Rebeca Rivas
-
-### [**Episodio 38**](./38-Episodio/) Aprender en segundos: IA y educación hiperpersonalizada con Juan Carlos Molina
-
-### [**Episodio 39**](./39-Episodio/) Startups, datos y liderazgo: descubre el Colombia Tech Report 2025
-
-### [**Episodio 40**](./40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

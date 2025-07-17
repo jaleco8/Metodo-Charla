@@ -1,30 +1,10 @@
-# METODO CHARLA
+# Educación e Inteligencia Artificial: Liderazgo y Futuro con la Dra. Rebeca Rivas
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/37-MiniaturaPodcast.jpg)](https://youtu.be/S2tbfH6yEWk)
 
-## TEMPORADA 3
+Rebeca Rivas es ingeniera en informática, doctora en ciencias de la educación y decano de la Facultad de Ingeniería de la Universidad Fermín Toro. Representante de Venezuela ante ASIBEI y líder en procesos de actualización curricular, ha dedicado su carrera a transformar la educación en ingeniería con enfoque en innovación, gestión académica y formación digital. Hoy nos acompaña desde Barquisimeto para hablar de liderazgo educativo, inteligencia artificial y el futuro de la formación universitaria.
 
-### [**Episodio 31**](./31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
-
-### [**Episodio 32**](./32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
-
-### [**Episodio 33**](./33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
-
-### [**Episodio 34**](./34-Episodio/) Innovar no es seguir modas, es resolver problemas reales
-
-### [**Episodio 35**](./35-Episodio/) De abogado a líder BPO: La transformación de Rodolfo Hobaica y el renacer de Vocem
-
-### [**Episodio 36**](./36-Episodio/) Liderar desde la Juventud: Leticia Oruna y el Poder del Talento Emergente
-
-### [**Episodio 37**](./37-Episodio/) Educación e Inteligencia Artificial: Liderazgo y Futuro con la Dra. Rebeca Rivas
-
-### [**Episodio 38**](./38-Episodio/) Aprender en segundos: IA y educación hiperpersonalizada con Juan Carlos Molina
-
-### [**Episodio 39**](./39-Episodio/) Startups, datos y liderazgo: descubre el Colombia Tech Report 2025
-
-### [**Episodio 40**](./40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)

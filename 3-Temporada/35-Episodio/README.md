@@ -1,30 +1,10 @@
-# METODO CHARLA
+# De abogado a líder BPO: La transformación de Rodolfo Hobaica y el renacer de Vocem
 
-![](../images/MC-Encabezado.jpg)
+[![](../../images/35-MiniaturaPodcast.jpg)](https://youtu.be/y73BoyTddr4)
 
-## TEMPORADA 3
+Rodolfo Hobaica es abogado, especialista en Derecho de la Navegación y MBA en Gerencia de Mercadeo. Ha liderado operaciones comerciales de alto nivel y fue reconocido como uno de los 100 Gerentes del Año por la Revista Gerente. Con una visión estratégica y humana, ha impulsado la transformación de Vocem y apoyado diversos emprendimientos familiares. Hoy nos acompaña desde Caracas para hablar de liderazgo, evolución y futuro.
 
-### [**Episodio 31**](./31-Episodio/) Web 3.0, Big Data y el futuro del desarrollo
-
-### [**Episodio 32**](./32-Episodio/) La Tecnología No Espera: ¿Estás Listo para el Cambio?
-
-### [**Episodio 33**](./33-Episodio/) Liderazgo, Innovación y Propósito: Cómo el Marketing en LATAM Rompe Esquemas (Con Mónica Parra)
-
-### [**Episodio 34**](./34-Episodio/) Innovar no es seguir modas, es resolver problemas reales
-
-### [**Episodio 35**](./35-Episodio/) De abogado a líder BPO: La transformación de Rodolfo Hobaica y el renacer de Vocem
-
-### [**Episodio 36**](./36-Episodio/) Liderar desde la Juventud: Leticia Oruna y el Poder del Talento Emergente
-
-### [**Episodio 37**](./37-Episodio/) Educación e Inteligencia Artificial: Liderazgo y Futuro con la Dra. Rebeca Rivas
-
-### [**Episodio 38**](./38-Episodio/) Aprender en segundos: IA y educación hiperpersonalizada con Juan Carlos Molina
-
-### [**Episodio 39**](./39-Episodio/) Startups, datos y liderazgo: descubre el Colombia Tech Report 2025
-
-### [**Episodio 40**](./40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
-
-<hr/>
+> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con “Método Charla”.
 
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
