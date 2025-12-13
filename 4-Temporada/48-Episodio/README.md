@@ -17,8 +17,6 @@ Descubre las historias no contadas, los desafíos que enfrentó como reportero e
 - Consejos reales para periodistas jóvenes
 - Reflexiones sobre el oficio y la pasión de comunicar
 
-> Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con "Método Charla".
-
 ## SUSCRÍBETE AL CANAL:
 ![Static Badge](https://img.shields.io/badge/%40metodocharla-D9D9D9?style=social&logo=youtube&label=%2F&labelColor=%23D9D9D9&link=https%3A%2F%2Fwww.youtube.com%2F%40MetodoCharla)
 
