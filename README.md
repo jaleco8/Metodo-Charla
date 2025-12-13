@@ -28,6 +28,16 @@
 
 ### [**Episodio 40**](./3-Temporada/40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
 
+### [**Episodio 41**](./3-Temporada/41-Episodio/) De la fibra óptica a la fibra humana: liderazgo con propósito en la era digital
+
+### [**Episodio 42**](./3-Temporada/42-Episodio/) Contenido, IA y propósito: construir marcas en la era del ruido digital
+
+### [**Episodio 43**](./3-Temporada/43-Episodio/) Del reto personal al impacto regional: lecciones de liderazgo con Nicole Pérez
+
+### [**Episodio 44**](./3-Temporada/44-Episodio/) De Boyacá al mundo: cómo las comunidades impulsan talento tecnológico
+
+### [**Episodio 45**](./3-Temporada/45-Episodio/) Juan Sabogal: IA, Educación y Emprendimiento
+
 ## [TEMPORADA 4](./4-Temporada/)
 
 ### [**Episodio 46**](./4-Temporada/46-Episodio/) Rappi, TryCatch y la Nube: ¿Qué Tienen en Común?
