@@ -28,6 +28,24 @@
 
 ### [**Episodio 40**](./3-Temporada/40-Episodio/) Liderazgo y resiliencia: claves para escalar e-commerce en Latinoamérica
 
+## [TEMPORADA 4](./4-Temporada/)
+
+### [**Episodio 46**](./4-Temporada/46-Episodio/) Rappi, TryCatch y la Nube: ¿Qué Tienen en Común?
+
+### [**Episodio 47**](./4-Temporada/47-Episodio/) Agentes Visuales, IA y el Futuro de las Interfaces
+
+### [**Episodio 48**](./4-Temporada/48-Episodio/) Del micrófono al liderazgo: una vida dedicada a comunicar con propósito
+
+### [**Episodio 49**](./4-Temporada/49-Episodio/) Lo que pocos saben sobre AI y Marketing en 2025
+
+### [**Episodio 50**](./4-Temporada/50-Episodio/) El Mayor Desafío Humano y Profesional de una Líder Migrante en Pandemia
+
+### [**Episodio 51**](./4-Temporada/51-Episodio/) ¿Qué Está Pasando con el Open Banking en LATAM?
+
+### [**Episodio 52**](./4-Temporada/52-Episodio/) ¿Qué hay detrás del fuego de Roxs? DevOps, liderazgo y AWS desde LATAM
+
+### [**Episodio 53**](./4-Temporada/53-Episodio/) Esto es lo que TODOS los frontend devs deben saber en 2025
+
 <hr/>
 
 ## SUSCRÍBETE AL CANAL:
