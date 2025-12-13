@@ -2,7 +2,7 @@
 
 [![](../../images/MC-Encabezado.jpg)](https://youtu.be/OsSt3W1bS2M)
 
-Jahir Fiquitiva es ingeniero de software y líder técnico en National Write Your Congressman, Inc., donde diseña soluciones digitales con impacto. Cofundador de @boyaca-dev y BoyaConf la educación y la comunidad tech desde la innovación abierta. Desde Colombia, nos acompaña hoy para hablar de liderazgo, colaboración y el poder transformador del conocimiento compartido.
+Jahir Fiquitiva es ingeniero de software y líder técnico en National Write Your Congressman, Inc., donde diseña soluciones digitales con impacto. Cofundador de @boyaca-dev y BoyaConf, impulsa la educación y la comunidad tech desde la innovación abierta. Desde Colombia, nos acompaña hoy para hablar de liderazgo, colaboración y el poder transformador del conocimiento compartido.
 
 > Un espacio donde la experiencia se encuentra con la innovación. Jesús León y Gerswin Pineda, dos profesionales con una trayectoria impresionante en el mundo de la tecnología, te invitan a dialogar sobre las tendencias que están definiendo nuestra era digital. Cada episodio es una oportunidad para aprender de invitados expertos y descubrir cómo la tecnología transforma nuestras vidas. Únete a la conversación y amplía tus horizontes con "Método Charla".
 
